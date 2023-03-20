@@ -22,8 +22,6 @@ In the project : MnistDigistsClassificationWebApp, run main.py
     b- by uploading a file (sample.png) in the webapp and clicking submit. this page is available at localhost:105 after running main.py
 6- retraining the model:
     a- by executing the jupyter notebook : training_computervision_mnist.ipynb
-    b- by executing the collab notebook shared in the following link : https://drive.google.com/file/d/1tH0Ic6qdzFrD6Dp9QGSH7_TTbOUPM-Cc/view?usp=sharing
-    c- by executing the code in the python file : training_computervision_mnist.py
 ## Method
 
 - Creating a proof of concept in the notebook training_computervision_mnist.ipynb using google collab.
@@ -34,4 +32,4 @@ In the project : MnistDigistsClassificationWebApp, run main.py
 ## Code and method documentation
 1- Training
     - In the jupyter notebook (training_computervision_mnist.ipynb) the method is well explained. the notebook can be opened with visual code.
-    - The python file (training_computervision_mnist.py) has the final version of the model after the hyperparameters optimisation done in the notebook. documentation is done with docstring.
+    
