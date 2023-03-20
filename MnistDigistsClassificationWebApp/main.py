@@ -20,7 +20,6 @@ def upload_file_predict():
         file1.save(path)
         loader = model.access.LoadPredictCls.LoadPredictCls()
         loader.set_path_model(r"../model")
-        # image_file_path = r"C:\Users\admin\Documents\computer_vision_proj\sample.png"
         im = loader.read_image_from_path(path)
         im = loader.preprocess_data(im)
         p = loader.load_model_and_predict(im)
