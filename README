@@ -1,7 +1,7 @@
 # Classifying handwritten digits
 
-The objective of this task is to train a simple neural network on the mnist dataset in order to classify the handwritten digits into numbers ranging from zero to 9.
-The problem is a multi class classification problem on image data.
+The objective of this coding exercice is to train a simple neural network on the mnist dataset in order to classify the handwritten digits into numbers ranging from zero to 9.
+The problem is a multi-class classification problem on image data.
 
 
 ## Installation
