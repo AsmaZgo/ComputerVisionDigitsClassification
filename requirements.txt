@@ -152,7 +152,7 @@ korean-lunar-calendar==0.3.1
 langcodes==3.3.0
 libclang==15.0.6.1
 librosa==0.8.1
-lightgbm==2.2.3
+lightgbm==4.6.0
 llvmlite==0.39.1
 locket==1.0.0
 logical-unification==0.4.5
